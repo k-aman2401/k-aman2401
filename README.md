@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+<img src="https://rvpriy.netlify.app/api/streak?username=k-aman2401&theme=tokyonight&hide_border=true" />
+
+
+<img src="https://rvpriy.netlify.app/api/stats?username=k-aman2401&theme=github_dark" />
 <!--
 **k-aman2401/k-aman2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
